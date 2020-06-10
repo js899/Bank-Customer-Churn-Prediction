@@ -1,0 +1,13 @@
+Accuracies achieved:
+Logistic Regression: 83%
+Decision Tree Classification: 82%
+F1-score DTC: 89.8%
+Cross-validation mean score: 85%
+Random Forest Classification: 81%
+
+Conclusion:
+The customers who are likely to churn may:
+Have lesser current balance
+Have more previous month debit
+Have less vintage
+Have average balance fall below minimum, in the next quarter
